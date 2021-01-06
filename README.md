@@ -12,16 +12,16 @@ This is a demo application developed using spring boot + JPA + MySQL + devtools.
 ----
 #
 #### List all cities
-<img src="listOfCities.JPG" width="1000" />
+<img src="images/listOfCities.JPG" width="1000" />
   
 #### Save city
-  ![](saveCity.JPG)
+  ![](images/saveCity.JPG)
   
 #### Get City
-<img src="getCity.JPG" width="1000" />
+<img src="images/getCity.JPG" width="1000" />
   
 #### Update city
-  ![](updateCity.JPG)
+  ![](images/updateCity.JPG)
   
 #### Delete City
-<img src="deleteCity.JPG" width="1000" />
+<img src="images/deleteCity.JPG" width="1000" />
